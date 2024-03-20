@@ -57,5 +57,5 @@
 		</div>
 		
 		<?php include 'inc/sidebar.php'; ?>
-     <p>this code is upper of footer.</p>
+     
 		<?php  include 'inc/footer.php'; ?>
