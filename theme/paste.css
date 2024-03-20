@@ -1,0 +1,104 @@
+.headersection {
+    background: #057474 none repeat scroll 0 0;
+}
+.icon a {
+    background: #1bb3bd none repeat scroll 0 0;
+    color: #ffffff;
+}
+.icon a:hover {
+    background: #ffffff none repeat scroll 0 0;
+    color: #08c0ea;
+}
+.searchbtn input[type="text"] {
+    border: 1px solid #ffffff;
+    background: #1bb3bd;
+}
+.searchbtn input[type="submit"] {
+    border: 1px solid #fffefd;
+    background: #1bb3bd none repeat scroll 0 0;
+}
+.searchbtn input[type="submit"]:hover {
+    border: 1px solid #fffefd;
+    background: #1bb3bd none repeat scroll 0 0;
+}
+.navsection {
+    background: none repeat scroll 0 0 #22c9c8;
+}
+.navsection ul li a {
+    color: #1e0404;
+}
+.navsection ul li a:hover, #active {
+    background: #ffffff;
+    color: #0296a7;
+}
+.navsection ul li {
+    border-left: 1px solid #31dddc;
+    border-right: 1px solid #0c7877;
+}
+.contentsection {
+    border: 1px solid #05a7a6;
+}
+.maincontent {
+    background: #afedf1 none repeat scroll 0 0;
+    border : 1px solid #008187;
+}
+.samepost h2 a {
+    color: #027576;
+}
+.samepost h2, .about h2 {
+    border-bottom: 2px solid #1abbcd;
+    color: #008189;
+}
+.readmore a {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #0492a1;
+}
+.readmore a {
+    color: #0b9eaf;  
+}
+.samepost img {
+    border: 1px solid #04c4cd;
+}
+.pagination a {
+    background-color: #069fad;
+    border: 1px solid #ffffff;
+    color: #fbf4f4;
+}
+.footersection {
+    background: #057474;
+}
+.footermenu ul li a {
+    color: #f5f5f5;
+}
+.footersection p {
+    color: #fff;
+}
+.sidebar {
+    background: #afedf1 none repeat scroll 0 0;
+    border: 1px solid #008187;
+}
+.samesidebar h2 {
+    background: #079395 none repeat scroll 0 0;
+    border-bottom: 2px solid #dcedec;
+    color: #fff5f5;
+}
+.samesidebar ul li a {
+    color: #046e74;
+}
+.samesidebar ul li {
+    border-bottom: 1px dashed #16b6cd;
+}
+.popular h3 {
+    border-bottom: 1px dashed #16b6cd;
+}
+input[type="submit"] {
+    background: #03abb5 none repeat scroll 0 0;
+    border: 1px solid #fffcf6;
+}
+textarea {
+    border: 1px solid #079cab;
+}
+input[type="text"], input[type="email"] {
+    border: 1px solid #079cab;
+}
+

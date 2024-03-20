@@ -1,0 +1,96 @@
+.headersection {
+    background: #016416 none repeat scroll 0 0;
+}
+.icon a {
+    background: #089520 none repeat scroll 0 0;
+    color: #fff;
+}
+.searchbtn input[type="text"] {
+    border: 1px solid #36850d;
+    background: #07b926;
+    color:#fff;
+}
+.searchbtn input[type="submit"] {
+    border: 1px solid #089520;
+    background: #07b926 none repeat scroll 0 0;
+    color: #fffcfc;
+}
+.searchbtn input[type="submit"]:hover {
+    border: 1px solid #35cd0f;
+    background: #5bf137 none repeat scroll 0 0;
+    color: #000;
+}
+.navsection {
+    background: none repeat scroll 0 0 #07b926;
+    min-height: 38px;
+}
+.navsection ul li {
+    border-left: 1px solid #087210;
+    border-right: 1px solid #087210;
+
+}
+.navsection ul li a:hover, #active {
+    background: #ffffff;
+    color: #333;
+}
+.maincontent {
+    background: #bcf9b6 none repeat scroll 0 0;
+}
+.samepost h2 a {
+    color: #0a6a04;
+}
+.pagination a {
+    background-color: #077419;
+    border: 1px solid #17f350;
+    color: #f3ebeb;
+}
+.footersection {
+    background: #016416;
+}
+.footersection p {
+    color:#fff;
+}
+.contentsection {
+    border: 1px solid #067214;
+}
+.sidebar {
+    background: #bcf9b6 none repeat scroll 0 0;
+    border: 1px solid #067214;
+}
+.readmore a {
+    background: #016416 none repeat scroll 0 0;
+    border: 1px solid #16d91c;
+    color: #fff;
+}
+.samesidebar h2 {
+    background: #155805 none repeat scroll 0 0;
+    border-bottom: 2px solid #3ac30f;
+    color: #fffefe;
+}
+.samesidebar ul li a {
+    color: #144e06;
+}
+.samesidebar ul li {
+    border-bottom: 1px dashed #156205;
+}
+.samepost h2, .about h2 {
+    border-bottom: 2px solid #45ad07;
+    color: #366404;
+}
+.relatedpost h2 {
+    background: #167006 none repeat scroll 0 0;
+    border-bottom: 2px solid #27dd12 !important;
+    color: #f9f4f4 !important;
+}
+input[type="text"], input[type="email"] {
+    border: 1px solid #098f07;
+}
+textarea{
+    border:1px solid #098f07;
+}
+input[type="submit"] {
+    background: #067a0a none repeat scroll 0 0;
+    border: 1px solid #17ef27;
+    color: #fff;
+    
+}
