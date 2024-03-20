@@ -57,5 +57,5 @@
 		</div>
 		
 		<?php include 'inc/sidebar.php'; ?>
-     			<p>Added one new p tag.</p>
+     			
 		<?php  include 'inc/footer.php'; ?>
